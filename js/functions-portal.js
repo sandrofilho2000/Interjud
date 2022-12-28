@@ -1,0 +1,10 @@
+$(document).ready(function(){
+	/*
+	$('.credito-single').click(function(){
+		$(this).css('transform','rotateY(90deg)');
+		setInterval(function(){
+			$(this).find('.credito-tras').show();
+			//$(this).find('.credito-tras').css('transform','rotateY(190deg)');
+		},1000);
+	})*/
+})

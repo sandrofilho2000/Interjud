@@ -1,0 +1,919 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1645151220954,
+    "data": [
+        {
+            "type": "file",
+            "name": ".eslintrc.json",
+            "size": 40,
+            "hash": "1589a15e55fbebc6519c95d91d8f0a090618f20dc78e479858b9c27552484961"
+        },
+        {
+            "type": "folder",
+            "name": ".next"
+        },
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 1582,
+            "hash": "ec33ea53ee9b7d3470ae200839481e9853dd28b78cf462c1e2df636a4ac61769"
+        },
+        {
+            "type": "file",
+            "name": "next-env.d.ts",
+            "size": 201,
+            "hash": "9269d492817e359123ac64c8205e5d05dab63d71a3a7a229e68b5d9a0e8150bf"
+        },
+        {
+            "type": "file",
+            "name": "next.config.js",
+            "size": 337,
+            "hash": "45ea1cb091e118220d7b552378f5e852793c431cb6d5bdbc3253227f1724c58f"
+        },
+        {
+            "type": "folder",
+            "name": "out"
+        },
+        {
+            "type": "file",
+            "name": "package-lock.json",
+            "size": 141337,
+            "hash": "703ceb132230b02e7fd08035d40a3a7987643c94d14faec45b0f4cc407b35767"
+        },
+        {
+            "type": "file",
+            "name": "package.json",
+            "size": 685,
+            "hash": "f232410a635e8faff87db37f355dce41f40c38d0d76b6e88ee752c08ec063a7e"
+        },
+        {
+            "type": "folder",
+            "name": "public"
+        },
+        {
+            "type": "folder",
+            "name": "src"
+        },
+        {
+            "type": "folder",
+            "name": "styles"
+        },
+        {
+            "type": "file",
+            "name": "tsconfig.json",
+            "size": 509,
+            "hash": "ce8226483e5266244de7a0d0f0f109836e46f76a66fdc12cbd01e078af58931a"
+        },
+        {
+            "type": "file",
+            "name": "yarn.lock",
+            "size": 133708,
+            "hash": "7eeeaf2663f523dacc0fee07dad13eff43a0b907e8bc9d46c7db248667def891"
+        },
+        {
+            "type": "file",
+            "name": ".next/BUILD_ID",
+            "size": 21,
+            "hash": "0f5eab3048d17743e1530cb3f8d5066d2dd718e6e7f9a8932090f9d50b3bba0a"
+        },
+        {
+            "type": "file",
+            "name": ".next/build-manifest.json",
+            "size": 1161,
+            "hash": "10bd94064546c14ecfabb09331b3d3b747920c4ba8db5b5c39d2f017bafa7387"
+        },
+        {
+            "type": "folder",
+            "name": ".next/cache"
+        },
+        {
+            "type": "file",
+            "name": ".next/export-detail.json",
+            "size": 105,
+            "hash": "f839939600a487cc814f000a680e98b751c13b1c82d3f9be7263756f5be9a950"
+        },
+        {
+            "type": "file",
+            "name": ".next/export-marker.json",
+            "size": 92,
+            "hash": "04db16739869f26371c14601b93eb39456170d477f3c9e3b325f7a056b4816e9"
+        },
+        {
+            "type": "file",
+            "name": ".next/images-manifest.json",
+            "size": 310,
+            "hash": "b34e44c61f72dac5578b3863cee7ed2cac25e36a266e65402419fef6936d2a59"
+        },
+        {
+            "type": "file",
+            "name": ".next/next-server.js.nft.json",
+            "size": 10126,
+            "hash": "8412de51014c8327d1ca7af43fc25d39ee0a8ae8ddcde18be77eff7ccbee450d"
+        },
+        {
+            "type": "file",
+            "name": ".next/prerender-manifest.json",
+            "size": 312,
+            "hash": "5a1add6a228e9bc16b12ecf3bfbbe5ce7782fcb69ab6eddea868a42cec418b45"
+        },
+        {
+            "type": "file",
+            "name": ".next/react-loadable-manifest.json",
+            "size": 2,
+            "hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+            "type": "file",
+            "name": ".next/required-server-files.json",
+            "size": 2131,
+            "hash": "fc2edd24f53d9680fb45ec06a4c25c7345c5ecf1235449ceed7ce44e8ec7a53f"
+        },
+        {
+            "type": "file",
+            "name": ".next/routes-manifest.json",
+            "size": 598,
+            "hash": "9317e869d3c1dcc8e3a9ac9629641037e66a3858c0d7f27611e481c2218e7c5d"
+        },
+        {
+            "type": "folder",
+            "name": ".next/server"
+        },
+        {
+            "type": "folder",
+            "name": ".next/static"
+        },
+        {
+            "type": "file",
+            "name": ".next/trace",
+            "size": 76718,
+            "hash": "13c07b64ad80ef31467b886a3ca0a855c752de5a02af2463b1e957ac4d02eb02"
+        },
+        {
+            "type": "file",
+            "name": "out/1639262086BBpng",
+            "size": 3534,
+            "hash": "7f62e09a06e4b60ec1c105d611997a87c4f34214684ce048361d667e3a32c3de"
+        },
+        {
+            "type": "folder",
+            "name": "out/404"
+        },
+        {
+            "type": "folder",
+            "name": "out/_next"
+        },
+        {
+            "type": "file",
+            "name": "out/default-logo.png",
+            "size": 698,
+            "hash": "86fe027c47104d55a9d88610b9ae6f4f76e938f0a6eeaa1b5532772d3670996b"
+        },
+        {
+            "type": "file",
+            "name": "out/default.jpg",
+            "size": 12535,
+            "hash": "b56dce0af9c23b6d04f73985f2549b3f08bbfc29f5fc41f885227dba0813639b"
+        },
+        {
+            "type": "file",
+            "name": "out/favicon.ico",
+            "size": 25931,
+            "hash": "2b8ad2d33455a8f736fc3a8ebf8f0bdea8848ad4c0db48a2833bd0f9cd775932"
+        },
+        {
+            "type": "file",
+            "name": "out/fundomenu.jpg",
+            "size": 425125,
+            "hash": "0fa590a1371a74a9e3bfd9bdf104480db1ac756ee35b436f99e0bf389bc5bd34"
+        },
+        {
+            "type": "file",
+            "name": "out/gif_4k.mp4",
+            "size": 45480588,
+            "hash": "8fcfbc53e2f8cf38dafa3ea7fe078cb4f2565147973a2828f422d42ff1e0a4ed"
+        },
+        {
+            "type": "file",
+            "name": "out/index.html",
+            "size": 19642,
+            "hash": "6404c0f753d96501b722871f8c4ccead2e2b1e3c6c43f623932f7ef7fa8a98b6"
+        },
+        {
+            "type": "file",
+            "name": "out/logo.png",
+            "size": 30257,
+            "hash": "8c7c7fe57958f5484c454b41e488edc4129ef2f0cf8ff6b3679736de72115126"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_0.0.jpg",
+            "size": 29822,
+            "hash": "4b3e2a40d9c1a725fdaba6031907225ec4ecbc84688d26586c1e2378df02e1ce"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_0.5.jpg",
+            "size": 33204,
+            "hash": "29008d7a59427172f90de7dbe1a80b114e0f0422115aebdb0ff26868f3163506"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_1.0.jpg",
+            "size": 35032,
+            "hash": "5649309364d27beb8d2ef38c86e30dee956b15cda224b1618a922c46fbe40858"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_1.5.jpg",
+            "size": 40762,
+            "hash": "066c54d63766c40ff7129f3cf0da9c28185d6522257d2bfb69a1d38a1363fb63"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_2.0.jpg",
+            "size": 42569,
+            "hash": "eb86a4d907a67846dc5f158d9793918ca14cc73b193a867adb6caefd64729126"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_2.5.jpg",
+            "size": 47899,
+            "hash": "25b28cbdd242f72c814b88b9ec01c5975cf8ead282689afeab5ded4adf35f2e9"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_3.0.jpg",
+            "size": 41003,
+            "hash": "705cb78f4ddfd41c98bcfbf50de45f194735414080d3c1cb7285a0d47a170492"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_3.5.jpg",
+            "size": 47116,
+            "hash": "5dbd42c4e75fac93c5703e05c15ecd0bdfea119cfa759974b0d301558c98570c"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_4.0.jpg",
+            "size": 41499,
+            "hash": "f5e7db8aa821bc7ebc3ed54b79227bd61f67494c85959e6de470391004e2f039"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_4.5.jpg",
+            "size": 43586,
+            "hash": "a523b007af5a3586ec8e725e54ce6f913ce6a7b24559c777387e472d722af113"
+        },
+        {
+            "type": "file",
+            "name": "out/rating_5.0.jpg",
+            "size": 37239,
+            "hash": "1fee36c212c801df9c8def89412277c48fc101857c1b904da7ed6be220c60280"
+        },
+        {
+            "type": "file",
+            "name": "out/vercel.svg",
+            "size": 1101,
+            "hash": "c0fbce0cd5cd0d3c7b88981acd068d13b961460bb94d3c4ba4a0ec5c28051fd1"
+        },
+        {
+            "type": "file",
+            "name": "public/1639262086BBpng",
+            "size": 3534,
+            "hash": "7f62e09a06e4b60ec1c105d611997a87c4f34214684ce048361d667e3a32c3de"
+        },
+        {
+            "type": "file",
+            "name": "public/default-logo.png",
+            "size": 698,
+            "hash": "86fe027c47104d55a9d88610b9ae6f4f76e938f0a6eeaa1b5532772d3670996b"
+        },
+        {
+            "type": "file",
+            "name": "public/default.jpg",
+            "size": 12535,
+            "hash": "b56dce0af9c23b6d04f73985f2549b3f08bbfc29f5fc41f885227dba0813639b"
+        },
+        {
+            "type": "file",
+            "name": "public/favicon.ico",
+            "size": 25931,
+            "hash": "2b8ad2d33455a8f736fc3a8ebf8f0bdea8848ad4c0db48a2833bd0f9cd775932"
+        },
+        {
+            "type": "file",
+            "name": "public/fundomenu.jpg",
+            "size": 425125,
+            "hash": "0fa590a1371a74a9e3bfd9bdf104480db1ac756ee35b436f99e0bf389bc5bd34"
+        },
+        {
+            "type": "file",
+            "name": "public/gif_4k.mp4",
+            "size": 45480588,
+            "hash": "8fcfbc53e2f8cf38dafa3ea7fe078cb4f2565147973a2828f422d42ff1e0a4ed"
+        },
+        {
+            "type": "file",
+            "name": "public/logo.png",
+            "size": 30257,
+            "hash": "8c7c7fe57958f5484c454b41e488edc4129ef2f0cf8ff6b3679736de72115126"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_0.0.jpg",
+            "size": 29822,
+            "hash": "4b3e2a40d9c1a725fdaba6031907225ec4ecbc84688d26586c1e2378df02e1ce"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_0.5.jpg",
+            "size": 33204,
+            "hash": "29008d7a59427172f90de7dbe1a80b114e0f0422115aebdb0ff26868f3163506"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_1.0.jpg",
+            "size": 35032,
+            "hash": "5649309364d27beb8d2ef38c86e30dee956b15cda224b1618a922c46fbe40858"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_1.5.jpg",
+            "size": 40762,
+            "hash": "066c54d63766c40ff7129f3cf0da9c28185d6522257d2bfb69a1d38a1363fb63"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_2.0.jpg",
+            "size": 42569,
+            "hash": "eb86a4d907a67846dc5f158d9793918ca14cc73b193a867adb6caefd64729126"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_2.5.jpg",
+            "size": 47899,
+            "hash": "25b28cbdd242f72c814b88b9ec01c5975cf8ead282689afeab5ded4adf35f2e9"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_3.0.jpg",
+            "size": 41003,
+            "hash": "705cb78f4ddfd41c98bcfbf50de45f194735414080d3c1cb7285a0d47a170492"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_3.5.jpg",
+            "size": 47116,
+            "hash": "5dbd42c4e75fac93c5703e05c15ecd0bdfea119cfa759974b0d301558c98570c"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_4.0.jpg",
+            "size": 41499,
+            "hash": "f5e7db8aa821bc7ebc3ed54b79227bd61f67494c85959e6de470391004e2f039"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_4.5.jpg",
+            "size": 43586,
+            "hash": "a523b007af5a3586ec8e725e54ce6f913ce6a7b24559c777387e472d722af113"
+        },
+        {
+            "type": "file",
+            "name": "public/rating_5.0.jpg",
+            "size": 37239,
+            "hash": "1fee36c212c801df9c8def89412277c48fc101857c1b904da7ed6be220c60280"
+        },
+        {
+            "type": "file",
+            "name": "public/vercel.svg",
+            "size": 1101,
+            "hash": "c0fbce0cd5cd0d3c7b88981acd068d13b961460bb94d3c4ba4a0ec5c28051fd1"
+        },
+        {
+            "type": "folder",
+            "name": "src/components"
+        },
+        {
+            "type": "folder",
+            "name": "src/hooks"
+        },
+        {
+            "type": "folder",
+            "name": "src/pages"
+        },
+        {
+            "type": "file",
+            "name": "styles/globals.css",
+            "size": 261,
+            "hash": "4adf944b4c3669cbf2b30e223e9e9ec4814f7a8a32404981b5deb0b313b94b93"
+        },
+        {
+            "type": "file",
+            "name": ".next/cache/.tsbuildinfo",
+            "size": 34143,
+            "hash": "0626834c8e84740d1eb3dd25d9d333a186f6fd77a14113c43f7cbd9284e41140"
+        },
+        {
+            "type": "file",
+            "name": ".next/cache/config.json",
+            "size": 185,
+            "hash": "14a44c447b0d0805d3225a6a047852d8235da5241d763a42c7448449149b6812"
+        },
+        {
+            "type": "folder",
+            "name": ".next/cache/eslint"
+        },
+        {
+            "type": "file",
+            "name": ".next/cache/next-server.js.nft.json",
+            "size": 10126,
+            "hash": "8412de51014c8327d1ca7af43fc25d39ee0a8ae8ddcde18be77eff7ccbee450d"
+        },
+        {
+            "type": "folder",
+            "name": ".next/cache/webpack"
+        },
+        {
+            "type": "folder",
+            "name": ".next/server/chunks"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/font-manifest.json",
+            "size": 2,
+            "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/middleware-manifest.json",
+            "size": 84,
+            "hash": "eeb7db64e38fc7a2e71d6f383422f00a745e52a9f5564f111af0082c8f95b562"
+        },
+        {
+            "type": "folder",
+            "name": ".next/server/pages"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages-manifest.json",
+            "size": 193,
+            "hash": "0a5140a25d9e27a913c38fd9b684ab719753abda2004c331e0930076bf4b3789"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/webpack-api-runtime.js",
+            "size": 5591,
+            "hash": "0f8a6bba2cacd5b1a7724f398a6f408cc75a7e2d0c18a9d1cb467836da3759d5"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/webpack-runtime.js",
+            "size": 6062,
+            "hash": "680a82f30d3d956396f226c9afd8c59c37285ab1cca310b74baee66a9d45624c"
+        },
+        {
+            "type": "folder",
+            "name": ".next/static/EAfupSzG6FqrqA8BQv-Y0"
+        },
+        {
+            "type": "folder",
+            "name": ".next/static/chunks"
+        },
+        {
+            "type": "folder",
+            "name": ".next/static/css"
+        },
+        {
+            "type": "folder",
+            "name": ".next/static/media"
+        },
+        {
+            "type": "file",
+            "name": "out/404/index.html",
+            "size": 2300,
+            "hash": "f65be7bd213d8d3ba548c3201be7ad7d8d7ad73b9bfa00ca579acaef6a68dcd3"
+        },
+        {
+            "type": "folder",
+            "name": "out/_next/EAfupSzG6FqrqA8BQv-Y0"
+        },
+        {
+            "type": "folder",
+            "name": "out/_next/static"
+        },
+        {
+            "type": "folder",
+            "name": "src/components/inicio"
+        },
+        {
+            "type": "file",
+            "name": "src/hooks/VideoPlayer.jsx",
+            "size": 1669,
+            "hash": "cd698c4a8b0fd19ffca5da48de6967ed6f3a8f43e04eb2aa0e2298a68f52c4c8"
+        },
+        {
+            "type": "file",
+            "name": "src/pages/_app.tsx",
+            "size": 266,
+            "hash": "b56a742dae9c4b38866243340109ec0f775079379ae0bf2613270e8fb8998572"
+        },
+        {
+            "type": "file",
+            "name": "src/pages/_document.tsx",
+            "size": 913,
+            "hash": "5791ac2e8bcbdf09c1df5f0432e01efcdcdea558b9cdb249506c1fa6a1a7cb9b"
+        },
+        {
+            "type": "folder",
+            "name": "src/pages/api"
+        },
+        {
+            "type": "file",
+            "name": "src/pages/index.tsx",
+            "size": 514,
+            "hash": "bec790d4a81a9e7e27c55d131435490e6840107017e23185c8ce918c85ed2f80"
+        },
+        {
+            "type": "file",
+            "name": ".next/cache/eslint/.cache_14njp01",
+            "size": 4406,
+            "hash": "16541e1a659161ebe242a29f7fac2793c2b6061b3d33941e6255875811074f6c"
+        },
+        {
+            "type": "folder",
+            "name": ".next/cache/webpack/client-production"
+        },
+        {
+            "type": "folder",
+            "name": ".next/cache/webpack/server-production"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/chunks/675.js",
+            "size": 24516,
+            "hash": "2a955a27318632c4cd2c23d8af15afcd07103011e95d7951ec3931f3d48c5e15"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/chunks/859.js",
+            "size": 43875,
+            "hash": "89684a89d6f9b2403371579db3b12bb41028af1e2d922c9f42165604ccebfd7f"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/chunks/font-manifest.json",
+            "size": 2,
+            "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/404.html",
+            "size": 2300,
+            "hash": "f65be7bd213d8d3ba548c3201be7ad7d8d7ad73b9bfa00ca579acaef6a68dcd3"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/500.html",
+            "size": 2286,
+            "hash": "58dab8a00614dfaae20138b26dba7ba561d693be736c72653078957fa3dc07ff"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/_app.js",
+            "size": 1384,
+            "hash": "a744d9d6dc825248dbf88137b32c5d182dcc3620c028db2361c154225195a674"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/_app.js.nft.json",
+            "size": 546,
+            "hash": "38898530137669d92d352e467e5415fd2f3caafa51ca751c2a3f169edb3a41a5"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/_document.js",
+            "size": 3779,
+            "hash": "928b33d63cdcb78c671fb5e9851898be69ccdd120b1683df045fa2077a643331"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/_document.js.nft.json",
+            "size": 3342,
+            "hash": "ae24a5994ca64e595039cabf68b3babd842c7958e3e276ad3eca3f69bb204c6f"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/_error.js",
+            "size": 3833,
+            "hash": "a235755562a3aa5b1cff0b4566a3dc361b60d142b22cd7a2aec495a6523931be"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/_error.js.nft.json",
+            "size": 700,
+            "hash": "d5d0a44afe805654322b1b74d02c9a4dcd041daebebb355a99b69111f8a0b009"
+        },
+        {
+            "type": "folder",
+            "name": ".next/server/pages/api"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/index.html",
+            "size": 19642,
+            "hash": "6404c0f753d96501b722871f8c4ccead2e2b1e3c6c43f623932f7ef7fa8a98b6"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/index.js.nft.json",
+            "size": 4505,
+            "hash": "b1195ce3af434bbb0a6cc787889294d3055505a98486995895aa64b7813d1ce4"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/EAfupSzG6FqrqA8BQv-Y0/_buildManifest.js",
+            "size": 356,
+            "hash": "a05cc895effa96c801b9c8e08a72400e5989ae80c1fc0b073057eb097b10859e"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/EAfupSzG6FqrqA8BQv-Y0/_middlewareManifest.js",
+            "size": 92,
+            "hash": "de5341313a4dc5d982ca50ae4a491e84bc5e80b0f439d87f05fc3973c1b7e59a"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/EAfupSzG6FqrqA8BQv-Y0/_ssgManifest.js",
+            "size": 77,
+            "hash": "6f5b4aa00d2f8d6aed9935b471806bf7acef464d0c1d390260e5fe27f800c67e"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/chunks/391-82bd7c49e8801c05.js",
+            "size": 87466,
+            "hash": "97d6225d577b575e3f583f548e44271e58c848562e9adcbb79a635dc4ee2a9a9"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/chunks/framework-91d7f78b5b4003c8.js",
+            "size": 130154,
+            "hash": "ce3783d4091c989beac6560ce4ba0032d52339854010ac19358dfb702f226167"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/chunks/main-c077062ff4cba9cc.js",
+            "size": 98197,
+            "hash": "99fb7ef7e20781b7ab910efbc9adc013d84a87ebfb7d09485fefa838fc81851c"
+        },
+        {
+            "type": "folder",
+            "name": ".next/static/chunks/pages"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/chunks/polyfills-5cd94c89d3acac5f.js",
+            "size": 91434,
+            "hash": "7cb5a87a6c0d05aab2245cbf6a26adad80cd322540d5f6360dde621bf922743f"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/chunks/webpack-5752944655d749a0.js",
+            "size": 1651,
+            "hash": "f084f40ddabbf16c59e0d2e8c13f2b2c927121892f452bdd87395df212e93635"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/css/c3e67bea1fd856c0.css",
+            "size": 3710,
+            "hash": "bf8967fb9add56288eec4d949b81ead4d4b8d333c275436cae431d9e2acf9914"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/css/fef6e1c818f544cf.css",
+            "size": 198,
+            "hash": "11d1a2f2e48eff9a0bbfd4e18e5e81a4308c6e84cb88b80860c0e9d6ff0ab045"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/media/logo.c1e06fe0.png",
+            "size": 30257,
+            "hash": "8c7c7fe57958f5484c454b41e488edc4129ef2f0cf8ff6b3679736de72115126"
+        },
+        {
+            "type": "folder",
+            "name": "out/_next/static/EAfupSzG6FqrqA8BQv-Y0"
+        },
+        {
+            "type": "folder",
+            "name": "out/_next/static/chunks"
+        },
+        {
+            "type": "folder",
+            "name": "out/_next/static/css"
+        },
+        {
+            "type": "folder",
+            "name": "out/_next/static/media"
+        },
+        {
+            "type": "folder",
+            "name": "src/components/inicio/footer"
+        },
+        {
+            "type": "folder",
+            "name": "src/components/inicio/fundo"
+        },
+        {
+            "type": "folder",
+            "name": "src/components/inicio/header"
+        },
+        {
+            "type": "folder",
+            "name": "src/components/inicio/section1"
+        },
+        {
+            "type": "folder",
+            "name": "src/components/inicio/section2"
+        },
+        {
+            "type": "file",
+            "name": "src/pages/api/hello.ts",
+            "size": 307,
+            "hash": "b797b4e5661d8f3d477d2f41b134301f4e03629759b3f19ff6fec69b25a9392a"
+        },
+        {
+            "type": "file",
+            "name": ".next/cache/webpack/client-production/0.pack",
+            "size": 9485329,
+            "hash": "31ee44772fb16aec857951f830a522120f46c840957a813402a3907f5e1750a9"
+        },
+        {
+            "type": "file",
+            "name": ".next/cache/webpack/client-production/index.pack",
+            "size": 177254,
+            "hash": "084b0354224983c1eabf768ec55e1f209a6fb7d887e0399189bdf634432ca7ee"
+        },
+        {
+            "type": "file",
+            "name": ".next/cache/webpack/server-production/0.pack",
+            "size": 1357066,
+            "hash": "6a7237b0fa31cd7203149fb23c99720fa4a12e27a16b65e0a6a832635d16c750"
+        },
+        {
+            "type": "file",
+            "name": ".next/cache/webpack/server-production/index.pack",
+            "size": 118323,
+            "hash": "5987d6bde15f8bf467eea2e5c22b45a76d6bd0a28bcebcd62cb23d5b79b64514"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/api/hello.js",
+            "size": 805,
+            "hash": "42b9da0309a90859b44f5a3634a3b4767e2b193686937d7c3c969e13de01c972"
+        },
+        {
+            "type": "file",
+            "name": ".next/server/pages/api/hello.js.nft.json",
+            "size": 81,
+            "hash": "8d01ad190e252fee8345e709dc783fa7f5555fc8eed710615f93f5610003785c"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/chunks/pages/_app-8bca1288f7256d7f.js",
+            "size": 897,
+            "hash": "2802483716acfd10694995bd2a9c495ba9350a2574ed521041ff4901dc8bb3bd"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/chunks/pages/_error-2280fa386d040b66.js",
+            "size": 267,
+            "hash": "ba931083089682ace84ca9dd4e04ab4127170208d09bce6eb14a34d00f49edee"
+        },
+        {
+            "type": "file",
+            "name": ".next/static/chunks/pages/index-e5ad75ca71bbf97b.js",
+            "size": 26243,
+            "hash": "9dc8dfe172c3d8a41efc6cf0731949bbe807c9dfad979de2be7f7f7668bfdb3c"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/EAfupSzG6FqrqA8BQv-Y0/_buildManifest.js",
+            "size": 356,
+            "hash": "a05cc895effa96c801b9c8e08a72400e5989ae80c1fc0b073057eb097b10859e"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/EAfupSzG6FqrqA8BQv-Y0/_middlewareManifest.js",
+            "size": 92,
+            "hash": "de5341313a4dc5d982ca50ae4a491e84bc5e80b0f439d87f05fc3973c1b7e59a"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/EAfupSzG6FqrqA8BQv-Y0/_ssgManifest.js",
+            "size": 77,
+            "hash": "6f5b4aa00d2f8d6aed9935b471806bf7acef464d0c1d390260e5fe27f800c67e"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/chunks/391-82bd7c49e8801c05.js",
+            "size": 87466,
+            "hash": "97d6225d577b575e3f583f548e44271e58c848562e9adcbb79a635dc4ee2a9a9"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/chunks/framework-91d7f78b5b4003c8.js",
+            "size": 130154,
+            "hash": "ce3783d4091c989beac6560ce4ba0032d52339854010ac19358dfb702f226167"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/chunks/main-c077062ff4cba9cc.js",
+            "size": 98197,
+            "hash": "99fb7ef7e20781b7ab910efbc9adc013d84a87ebfb7d09485fefa838fc81851c"
+        },
+        {
+            "type": "folder",
+            "name": "out/_next/static/chunks/pages"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/chunks/polyfills-5cd94c89d3acac5f.js",
+            "size": 91434,
+            "hash": "7cb5a87a6c0d05aab2245cbf6a26adad80cd322540d5f6360dde621bf922743f"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/chunks/webpack-5752944655d749a0.js",
+            "size": 1651,
+            "hash": "f084f40ddabbf16c59e0d2e8c13f2b2c927121892f452bdd87395df212e93635"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/css/c3e67bea1fd856c0.css",
+            "size": 3710,
+            "hash": "bf8967fb9add56288eec4d949b81ead4d4b8d333c275436cae431d9e2acf9914"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/css/fef6e1c818f544cf.css",
+            "size": 198,
+            "hash": "11d1a2f2e48eff9a0bbfd4e18e5e81a4308c6e84cb88b80860c0e9d6ff0ab045"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/media/logo.c1e06fe0.png",
+            "size": 30257,
+            "hash": "8c7c7fe57958f5484c454b41e488edc4129ef2f0cf8ff6b3679736de72115126"
+        },
+        {
+            "type": "file",
+            "name": "src/components/inicio/footer/index.tsx",
+            "size": 1080,
+            "hash": "acbb05c60d9c88364b712acf5a99b7e8cc685d653e8ab4447774b1a8c1bf4995"
+        },
+        {
+            "type": "file",
+            "name": "src/components/inicio/fundo/index.tsx",
+            "size": 3232,
+            "hash": "6cfb687941ce4ee1b03bd86c0b5b0eac48db303a503d1896df9f8321261a7d8a"
+        },
+        {
+            "type": "file",
+            "name": "src/components/inicio/header/index.tsx",
+            "size": 1286,
+            "hash": "e7d23979bc5bf8c095bc95b51c710b3cc6ea6dc3e833f6841b36df9446a5f00b"
+        },
+        {
+            "type": "file",
+            "name": "src/components/inicio/section1/index.tsx",
+            "size": 21429,
+            "hash": "4a73e0851a632f52aaee92cdd6f512baf031f08cf389435d06e75b45a91dd3a0"
+        },
+        {
+            "type": "file",
+            "name": "src/components/inicio/section2/index.jsx",
+            "size": 14411,
+            "hash": "0681397fbd4996a0e21fb9b6a59c5c915d7a57d72914354eb5461897d665b11b"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/chunks/pages/_app-8bca1288f7256d7f.js",
+            "size": 897,
+            "hash": "2802483716acfd10694995bd2a9c495ba9350a2574ed521041ff4901dc8bb3bd"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/chunks/pages/_error-2280fa386d040b66.js",
+            "size": 267,
+            "hash": "ba931083089682ace84ca9dd4e04ab4127170208d09bce6eb14a34d00f49edee"
+        },
+        {
+            "type": "file",
+            "name": "out/_next/static/chunks/pages/index-e5ad75ca71bbf97b.js",
+            "size": 26243,
+            "hash": "9dc8dfe172c3d8a41efc6cf0731949bbe807c9dfad979de2be7f7f7668bfdb3c"
+        }
+    ]
+}
